@@ -59,7 +59,6 @@ h6 {
 body {
     background-color: #fafafa;
     width: 1440px;
-    outline: 1px solid black;
 }
 
 /* HEADER STYLES ----------------------------------------------------------------- */
@@ -88,7 +87,6 @@ main {
         500px + (20px * 2)
     ); /* double of a card heigh + margin spaces */
     margin: auto;
-    outline: 1px solid red;
 }
 
 /* ? CARD SECTION */
